@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+In his research, I seek to better understand how the interaction between an individual’s working environment and human behavior affects productivity. My special interest lies in using empirical methods to study such people-centric problems in Operations Management.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Feel free to reach out to me via email.
+
+[rj_niewoehner@kenan-flagler.unc.edu](mailto:rj_niewoehner@kenan-flagler.unc.edu)
